@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Vikram Singh
-#### Enthusiastic code explorer on a mission to bridge the gap between cloud and data, one algorithm at a time. Python, Terraform, and a dash of system design - always learning, always building. 
+# Hi there 👋, my name is Vikram Singh
+## Enthusiastic code explorer on a mission to bridge the gap between cloud and data, one algorithm at a time. Python, Terraform, and a dash of system design - always learning, always building. 
 I am currently learning and exploring the different technologies and fields of computer science which are interconnected to each other, I'm learning data Science in Python and Cloud computing cli with Terraform and other new basic fundamentals of Computer Science like Data structure for a better understanding of data work at system level with system design and other MLOps and DEVops techs.
 
 Skills: C++/Python/Terraform/PHP/AWS/IBM CLOUD/LARAVEL/DJANGO/MEAN / JS / HTML / CSS
@@ -44,7 +44,14 @@ Skills: C++/Python/Terraform/PHP/AWS/IBM CLOUD/LARAVEL/DJANGO/MEAN / JS / HTML /
 <br />
 <br />
 <br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/vikram-singh-9b559b153/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Vikramksingh_)  
+
+<a href="https://twitter.com/https://twitter.com/Vikramksingh_/">
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
+</a>
+
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/vikram-singh-9b559b153/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vikram Singh's GitHub" height="40">
+</a>
 
 
 - 🔭 I’m currently working on this page. 
