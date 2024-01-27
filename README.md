@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Vikram Singh
-## Enthusiastic code explorer on a mission to bridge the gap between cloud and data, one algorithm at a time. Python, Terraform, and a dash of system design - always learning, always building. 
+## Highly motivated code explorer on leveraging to bridge the infrastructure and information between cloud and data, one algorithm at a time. Adept in Python and Terraform, with a keen interest in system design - continuously learning, and building.. 
 I am currently learning and exploring the different technologies and fields of computer science which are interconnected to each other, I'm learning data Science in Python and Cloud computing cli with Terraform and other new basic fundamentals of Computer Science like Data structure for a better understanding of data work at system level with system design and other MLOps and DEVops techs.
 
 Skills: C++/Python/Terraform/PHP/AWS/IBM CLOUD/LARAVEL/DJANGO/MEAN / JS / HTML / CSS
@@ -53,7 +53,9 @@ Skills: C++/Python/Terraform/PHP/AWS/IBM CLOUD/LARAVEL/DJANGO/MEAN / JS / HTML /
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vikram Singh's GitHub" height="40">
 </a>
 
-
+<br />
+<br />
+<br />
 🔭 I’m currently working on this page. 
 
 
