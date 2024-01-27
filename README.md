@@ -54,7 +54,7 @@ Skills: C++/Python/Terraform/PHP/AWS/IBM CLOUD/LARAVEL/DJANGO/MEAN / JS / HTML /
 </a>
 
 
-- 🔭 I’m currently working on this page. 
+🔭 I’m currently working on this page. 
 
 
 
