@@ -1,5 +1,7 @@
 ### Hi Vikram Singh
-##### Highly motivated code explorer on leveraging to bridge the infrastructure and information between cloud and data, one algorithm at a time. Adept in Python and Terraform, with a keen interest in system design - continuously learning, and building.. 
+
+##### Highly motivated code explorer on leveraging to bridge the infrastructure and information between cloud and data, one algorithm at a time. Adept in Python and Terraform, with a keen interest in system design - continuously learning, and building,.. 
+
 ###### I am currently learning and exploring the different technologies and fields of computer science which are interconnected to each other, I'm learning data Science in Python and Cloud computing CLI with Terraform and other new fundamentals of Computer Science like Data structure for a better understanding of data work at system level with system design and other MLOps and DEVops techs.
 
 <br>
