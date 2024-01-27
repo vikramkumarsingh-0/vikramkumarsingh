@@ -38,8 +38,8 @@ Skills: C++/Python/Terraform/PHP/AWS/IBM CLOUD/LARAVEL/DJANGO/MEAN / JS / HTML /
 <br />
 <br />
 
-* 🔭 I’m currently working on my coding skills 
-* 🌱 I’m currently learning Data Science, Cloud Computing, and other tech stacks.
+🔭 I’m currently working on my coding skills 
+🌱 I’m currently learning Data Science, Cloud Computing, and other tech stacks.
 <br />
 <br />
 <br />
