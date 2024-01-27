@@ -6,7 +6,7 @@
 
 <br>
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools<br>
 
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
