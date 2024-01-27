@@ -3,6 +3,7 @@
 ###### I am currently learning and exploring the different technologies and fields of computer science which are interconnected to each other, I'm learning data Science in Python and Cloud computing CLI with Terraform and other new fundamentals of Computer Science like Data structure for a better understanding of data work at system level with system design and other MLOps and DEVops techs.
 
 <br>
+
 ### 🧰 Languages and Tools
 
 
